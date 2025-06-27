@@ -77,5 +77,5 @@ Do not commit .env to version control.
 node index.js
 Visit: http://localhost:3000
 
-For feedback or contributions, reach out at [your-email@example.com]
+For feedback or contributions, reach out at [arpitasaha3000@gmail.com]
 
