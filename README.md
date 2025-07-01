@@ -17,7 +17,6 @@ Maplytics is a family travel tracker web app that allows multiple users to visua
 - **Backend:** Node.js, Express
 - **Database:** PostgreSQL
 - **Other:** Sessions, dotenv for environment config.
-- 
 ⚫ Project Structure
 -  Maplytics/
 ├── views/
@@ -31,7 +30,6 @@ Maplytics is a family travel tracker web app that allows multiple users to visua
 ├── index.js # Main server file
 ├── README.md # Project documentation
 ├── package.json # NPM config
-
 
 ⚫ Database Schema
 
