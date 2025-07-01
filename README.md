@@ -58,9 +58,6 @@ CREATE TABLE visited_countries (
 
 ⚫ Getting Started
 1. Clone the repository
-bash
-Copy
-Edit
 git clone https://github.com/your-username/maplytics.git
 cd maplytics
 
